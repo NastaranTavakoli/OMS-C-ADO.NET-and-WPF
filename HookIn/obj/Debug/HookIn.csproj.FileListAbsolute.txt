@@ -1,0 +1,17 @@
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\HookIn.exe.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\HookIn.exe
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\HookIn.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.Controllers.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.Domain.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.DAL.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.Controllers.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.Controllers.dll.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.Domain.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.Domain.dll.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.DAL.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\bin\Debug\OMS.DAL.dll.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\obj\Debug\HookIn.csprojAssemblyReference.cache
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\obj\Debug\HookIn.csproj.CoreCompileInputs.cache
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\obj\Debug\HookIn.csproj.CopyComplete
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\obj\Debug\HookIn.exe
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\HookIn\obj\Debug\HookIn.pdb

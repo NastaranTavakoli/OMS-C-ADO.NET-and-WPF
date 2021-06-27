@@ -1,0 +1,14 @@
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.Controllers.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.DAL.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.Domain.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.DAL.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.DAL.dll.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.Domain.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.Domain.dll.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\obj\Debug\OMS.Controllers.csprojAssemblyReference.cache
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\obj\Debug\OMS.Controllers.csproj.CoreCompileInputs.cache
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\obj\Debug\OMS.Controllers.csproj.CopyComplete
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\obj\Debug\OMS.Controllers.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.Controllers.dll.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\bin\Debug\OMS.Controllers.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Controllers\obj\Debug\OMS.Controllers.dll

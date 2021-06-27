@@ -1,0 +1,13 @@
+C:\Nas\Work\Programming Tafe\Programming\Assessment\new project\OMS\OMS.Domain\obj\Debug\OMS.Domain.csproj.CoreCompileInputs.cache
+C:\Nas\Work\Programming Tafe\Programming\Assessment\new project\OMS\OMS.Domain\bin\Debug\OMS.Domain.dll.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\new project\OMS\OMS.Domain\bin\Debug\OMS.Domain.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\new project\OMS\OMS.Domain\bin\Debug\OMS.Domain.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\new project\OMS\OMS.Domain\obj\Debug\OMS.Domain.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\new project\OMS\OMS.Domain\obj\Debug\OMS.Domain.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Domain\bin\Debug\OMS.Domain.dll.config
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Domain\bin\Debug\OMS.Domain.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Domain\bin\Debug\OMS.Domain.pdb
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Domain\obj\Debug\OMS.Domain.csprojAssemblyReference.cache
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Domain\obj\Debug\OMS.Domain.csproj.CoreCompileInputs.cache
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Domain\obj\Debug\OMS.Domain.dll
+C:\Nas\Work\Programming Tafe\Programming\Assessment\OMS Project\OMS\OMS.Domain\obj\Debug\OMS.Domain.pdb
