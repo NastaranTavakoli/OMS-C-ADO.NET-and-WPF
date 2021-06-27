@@ -48,7 +48,7 @@ namespace OMS.DAL
                 {
                     int id = reader.GetInt32(0);
                     //check if this is either the first row or a new order
-                    if(order==null || order.Id != id)
+                    if (order == null || order.Id != id)
                     {
                         int stateId = reader.GetInt32(1);
                         var dateTime = reader.GetDateTime(2);
@@ -151,8 +151,8 @@ namespace OMS.DAL
                 command.ExecuteNonQuery();
             }
 
-        }   
-                
+        }
+
         public void ResetDatabase()
         {
             using (var connection = new SqlConnection(_cs))
